@@ -8,10 +8,15 @@ de apartenență la un grup de oameni care știu ce-i cu Assembly-ul, dar care m
 soarelui.
 
 Echipa este formată din:
+
 **Mihai Lățea** - redactor, dezvoltator software
+
 **Ana Mîrza** - redactor
+
 **Iulia Dumitru** - redactor
+
 **Maria Sfîrăială** - redactor
+
 **Andrei Duma** - mentor
 
 
